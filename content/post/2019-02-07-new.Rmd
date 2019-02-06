@@ -1,0 +1,13 @@
+---
+title: New
+author: Song
+date: '2019-02-07'
+slug: new
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+---
+
+This is my first post
